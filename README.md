@@ -1,5 +1,5 @@
 # Mr.Joe Study Lounges （乔先森自习室 - 个人学习资源库）
-官方网站：<a href="http://www.qxszxs.com" target="_blank">http://www.qxszxs.com</a>
+官方网站：<a href="http://www.qxszxs.com" target="_blank">http://www.qxszxs.com</a>    认真学习，乐享生活！
 # 目录（善用Ctrl+F）
 
 注：文章正在逐渐完善，持续更新中，敬请期待！
